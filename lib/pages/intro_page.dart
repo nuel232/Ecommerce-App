@@ -57,7 +57,7 @@ class _IntroPageState extends State<IntroPage> {
                   ),
                   padding: EdgeInsets.all(25),
                   child: const Center(
-                    child: const Text(
+                    child: Text(
                       'shop now',
                       style: TextStyle(
                         color: Colors.white,
